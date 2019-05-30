@@ -8,13 +8,11 @@ public class CameraController : MonoBehaviour {
     private float moveSpeed = 2f;
     private float top;
     private float topLimit = 0.098f;
-
-    // Use this for initialization
+    
     void Start () {
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 	
-	// Update is called once per frame
 	void LateUpdate () {
         top = player.position.y;
         if(top > topLimit)

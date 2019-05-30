@@ -42,9 +42,10 @@ public class PlayerController : MonoBehaviour {
     void Update()
     {
         //if (!GameStates.gameActive) return;
-        // Recoger el input horizontal actual
+        // Get device type
         if(SystemInfo.deviceType == DeviceType.Desktop)
         {
+            // Input for keyboard (mostly for testing purposes)
             float horizontal = Input.GetAxisRaw("Horizontal");
 
             if (Input.GetMouseButton(0))
@@ -63,7 +64,6 @@ public class PlayerController : MonoBehaviour {
             }
             if (horizontal != 0f)
             {
-                // Si hay input, se cambia a left o right
                 if (horizontal < 0f)
                 {
 
@@ -76,12 +76,12 @@ public class PlayerController : MonoBehaviour {
             }
             else
             {
-                // Si no, se cambia a idle
                 if (OnStateChange != null) OnStateChange(PlayerStates.idle);
             }
         }
         else if(SystemInfo.deviceType == DeviceType.Handheld)
         {
+            // Mobile input
             if(SimpleInput.GetButton("Attack"))
             {
                 ps.Aim();

@@ -1,5 +1,4 @@
-﻿using Prime31;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -33,8 +32,7 @@ public class PlayerStateController : MonoBehaviour {
     {
         PlayerController.OnStateChange -= OnStateChange;
     }
-
-    // Use this for initialization
+    
     void Start () {
         anim = GetComponent<Animator>();
         r2d = GetComponent<Rigidbody2D>();
@@ -238,18 +236,19 @@ public class PlayerStateController : MonoBehaviour {
         switch (currentState)
         {
             case PlayerController.PlayerStates.idle:
-                // Des de idle es pot passar a qualsevol altre estat
+                // From idle you can go to any state
                 returnVal = true;
                 break;
             case PlayerController.PlayerStates.left:
-                // Des de moving left es pot passar a qualsevol altre estat
+                // From left you can go to any state
                 returnVal = true;
                 break;
             case PlayerController.PlayerStates.right:
-                // Des de moving right es pot passar a qualsevol altre estat
+                // From right you can go to any state
                 returnVal = true;
                 break;
             case PlayerController.PlayerStates.jump:
+                // From jump you can go to the next step if certain conditions are met
                 if (newState == PlayerController.PlayerStates.falling || newState == PlayerController.PlayerStates.kill || newState == PlayerController.PlayerStates.firingWeapon)
                     returnVal = true;
                 else if (!IsNextToWall() && (newState == PlayerController.PlayerStates.left || newState == PlayerController.PlayerStates.right) || ((transform.localScale.x < 0 && previousState == PlayerController.PlayerStates.right && newState == PlayerController.PlayerStates.right) || (transform.localScale.x > 0 && previousState == PlayerController.PlayerStates.left  && newState == PlayerController.PlayerStates.left )))
@@ -258,28 +257,25 @@ public class PlayerStateController : MonoBehaviour {
                     returnVal = false;
                 break;
             case PlayerController.PlayerStates.landing:
-                // Des de landing només es pot passar a idle, left o right.
+                // You get how this works
                 if (newState == PlayerController.PlayerStates.left || newState == PlayerController.PlayerStates.right || newState == PlayerController.PlayerStates.idle || newState == PlayerController.PlayerStates.firingWeapon)
                     returnVal = true;
                 else
                     returnVal = false;
                 break;
             case PlayerController.PlayerStates.falling:
-                // Des de falling només es pot passar a landing o a kill.
                 if (newState == PlayerController.PlayerStates.landing || newState == PlayerController.PlayerStates.kill || newState == PlayerController.PlayerStates.firingWeapon || newState == PlayerController.PlayerStates.right || newState == PlayerController.PlayerStates.left)
                     returnVal = true;
                 else
                     returnVal = false;
                 break;
             case PlayerController.PlayerStates.kill:
-                // Des de kill només es pot passar resurrect
                 if (newState == PlayerController.PlayerStates.resurrect)
                     returnVal = true;
                 else
                     returnVal = false;
                 break;
             case PlayerController.PlayerStates.resurrect:
-                // Des de resurrect només es pot passar Idle
                 if (newState == PlayerController.PlayerStates.idle)
                     returnVal = true;
                 else
@@ -317,7 +313,7 @@ public class PlayerStateController : MonoBehaviour {
                 if (PlayerController.stateDelayTimer[(int)PlayerController.PlayerStates.firingWeapon] > Time.time) returnVal = true;
                 break;
         }
-        // Retornar True vol dir 'Abort'. Retornar False vol dir 'Continue'.
+        // True means 'Abort', false means 'Continue'
         return returnVal;
     }
 
