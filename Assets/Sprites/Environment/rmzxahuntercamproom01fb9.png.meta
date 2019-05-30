@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 1a07f8b61ff997b4a8ff5ee6556ccb44
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rmzxahuntercamproom01fb9_0
+    21300002: rmzxahuntercamproom01fb9_1
+    21300004: rmzxahuntercamproom01fb9_2
+    21300006: rmzxahuntercamproom01fb9_3
+    21300008: rmzxahuntercamproom01fb9_4
+    21300010: rmzxahuntercamproom01fb9_5
+    21300012: rmzxahuntercamproom01fb9_6
+    21300014: rmzxahuntercamproom01fb9_7
+    21300016: rmzxahuntercamproom01fb9_8
+    21300018: rmzxahuntercamproom01fb9_9
+    21300020: rmzxahuntercamproom01fb9_10
+    21300022: rmzxahuntercamproom01fb9_11
+    21300024: rmzxahuntercamproom01fb9_12
+    21300026: rmzxahuntercamproom01fb9_13
+    21300028: rmzxahuntercamproom01fb9_14
+    21300030: rmzxahuntercamproom01fb9_15
+    21300032: rmzxahuntercamproom01fb9_16
+    21300034: rmzxahuntercamproom01fb9_17
+    21300036: rmzxahuntercamproom01fb9_18
+    21300038: rmzxahuntercamproom01fb9_19
+    21300040: rmzxahuntercamproom01fb9_20
+    21300042: rmzxahuntercamproom01fb9_21
+    21300044: rmzxahuntercamproom01fb9_22
+    21300046: rmzxahuntercamproom01fb9_23
+    21300048: rmzxahuntercamproom01fb9_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 428
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf6fd47560118478cff70c78eaf096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 428
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f55033a8350904591ff3ff9ae26752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 429
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0969f9806959469eb0352220858e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 429
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02aed72b3294a944974559eed28e4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 427
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b264b746eea34e8328ad8a17848be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 342
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39dcebdfa15324eb85751350deaac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 342
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd098a883392fa74e943021742def568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 385
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8a4cce8c7f1d46a350316dde73e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac96da2a318434bae2ddc76ba4a69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 385
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56dce4b2a4b7341a884a87ae15ab5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 385
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77decae4c5781104d99c4726ba831cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 385
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11c9b18a7f11d4499ced245fc2a703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 385
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c9b0dbbc2eeb4da4e963d4d630c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 385
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa47f5318dbda247a46f195e3f5a8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 385
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d277242f58c84d8cf3c7a306469b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 385
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7053b22b1657b41876080042ac8eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 385
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6770a175b79054188d33056a138c3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 342
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131801f1c0d60524ba84d21eaab4c940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 342
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db3339b7f514d459b5b8c634a62214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d812c58a4925fa4fa80966f6964d3fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 342
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765784f00760b6a49b14fa801c904c34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 342
+        width: 100
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c7be18e93da447b1fb89e1e26fc19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 480
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9e539d9ef0594caafb5c9760307ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 196
+        width: 224
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9855e0eb6309774484ce40f099e3b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxahuntercamproom01fb9_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 768
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976afb24b1bbabe43a279c64815579d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d8929564727460489751f4bebf53ce1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

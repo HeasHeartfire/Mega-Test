@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 09c21fca542b7da4daa5b632675c96b9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_0
+    21300002: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_1
+    21300004: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_2
+    21300006: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_3
+    21300008: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_4
+    21300010: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_5
+    21300012: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_6
+    21300014: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_7
+    21300016: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_8
+    21300018: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_9
+    21300020: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_10
+    21300022: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_11
+    21300024: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_12
+    21300026: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_13
+    21300028: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_14
+    21300030: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_15
+    21300032: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_16
+    21300034: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_17
+    21300036: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_18
+    21300038: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_19
+    21300040: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_20
+    21300042: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_21
+    21300044: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_22
+    21300046: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_23
+    21300048: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 618
+        width: 852
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edba3c1cecbe434a9b6d6de4c5ad182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 618
+        width: 516
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4673c19ad29244a8bdc3abaabb59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_2
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 618
+        width: 1051
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c75ea13f927eb499c72eae96b47632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_3
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 380
+        width: 530
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e933293d73e2542963b28b22b506d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_4
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 380
+        width: 843
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c10c4b078159a42a465e8e1bc0aa63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_5
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 618
+        width: 541
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813114e41b0ecb48afad7a8d1f59eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_6
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 618
+        width: 50
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f32d83a2a60e44d9e8f6d29c48ffd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_7
+      rect:
+        serializedVersion: 2
+        x: 4442
+        y: 618
+        width: 51
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec22496bf8bc64e8c20ce96047da4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_8
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 618
+        width: 51
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851246e957f2e014886068145972a339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_9
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 618
+        width: 52
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f77fd2c48bd14d8b3ab86f69ccd3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_10
+      rect:
+        serializedVersion: 2
+        x: 4827
+        y: 618
+        width: 1404
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5f309215a59d4a8787e298be9c31a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_11
+      rect:
+        serializedVersion: 2
+        x: 6235
+        y: 618
+        width: 1451
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5537a207c3e4e047913aec1f347cb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_12
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 509
+        width: 291
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c3480bb91230428ac76b56a1b717d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_13
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 545
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46046262931c7db45b98ddf3db89a312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_14
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 545
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4d9ff378434349bb9f6e32cdd979f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_15
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 545
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da450b581ed1841af8339b937b9242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_16
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 545
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028455b6ccfcb7a4db302efd9c11576a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_17
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 545
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f6b53a069c9b4bb7b5b7374177dd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_18
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 545
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef948e97c71b6434ea047dc1e8a0a793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_19
+      rect:
+        serializedVersion: 2
+        x: 4795
+        y: 545
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663f51de0469d442ba7d07c63f413b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_20
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 427
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9110c6b97f405e4986a9bae9584da7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_21
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 476
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274672cd15b1c54eb438d157cd5fdd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_22
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 410
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14560c256fe83a44941deff7d50cfd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_23
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 416
+        width: 225
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7cb5872a3dfa40a2b62989ba87df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993-d5dcuxi_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 3548
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7211cd1b292324dbcdacdec60ed000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 117e4f649a5afe94f9c8dd1ef9a77bdf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
